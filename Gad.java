@@ -15,8 +15,8 @@ public class Gad extends Zwierze
         super(nazwa, wiek);
     }
 
-    public void zniesGadzieJajo
+    public void zniesGadzieJajo()
     {
-        System.out.println("Zniosssssslem jajo szefie")
+        System.out.println("Zniosssssslem jajo szefie");
     }
 }

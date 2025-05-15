@@ -15,8 +15,8 @@ public class Ssak extends Zwierze
         super(nazwa, wiek);
     }
 
-    public void zniesJajoTez
+    public void zniesJajoTez()
         {
-            System.out.println("Idioto")
+            System.out.println("Idioto");
         }
 }
