@@ -5,8 +5,7 @@ public abstract class Zwierze
     protected int wiek;
 
     //konstruktor
-    public Zwierze()
-    {
+    public Zwierze(String nazwa, int wiek) {
         this.nazwa = nazwa;
         this.wiek = wiek;
     }
